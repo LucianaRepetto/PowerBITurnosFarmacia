@@ -1,3 +1,3 @@
-# muestra_turnos
+# Turnos Farmacia
 Muestra tablero realizado para farmaceutica
 Ejemplos de un análisis de turnos realizadon en #Microstrategy para una cadena farmacéutica
